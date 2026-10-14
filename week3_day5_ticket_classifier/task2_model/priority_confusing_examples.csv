@@ -1,0 +1,11 @@
+text,actual,predicted,confidence,guess_why
+my order was delivered to the wrong address. immediately. reference delivery ticket 128.,High,High,0.47497843425952346,"The ticket wording may be short, generic, or share words with another class."
+please update my delivery date. immediately. reference delivery ticket 71.,High,High,0.4876492985167714,"The ticket wording may be short, generic, or share words with another class."
+the website keeps showing an error. urgent. reference technical ticket 94.,High,High,0.5027931550899579,"The ticket wording may be short, generic, or share words with another class."
+my refund has not arrived. urgent. reference billing ticket 12.,High,High,0.5495416080650313,"The ticket wording may be short, generic, or share words with another class."
+i need help fixing a technical issue. immediately. reference technical ticket 52.,High,High,0.5500958037900088,"The ticket wording may be short, generic, or share words with another class."
+please help me reset my password. for information. reference account ticket 129.,Low,Low,0.5593183752827195,"The ticket wording may be short, generic, or share words with another class."
+i cannot verify my account. immediately. reference account ticket 54.,High,High,0.5604950286403291,"The ticket wording may be short, generic, or share words with another class."
+the payment failed but money was deducted. urgent. reference billing ticket 90.,High,High,0.5766295638039809,"The ticket wording may be short, generic, or share words with another class."
+please explain this unexpected invoice. urgent. reference billing ticket 32.,High,High,0.5768057084032238,"The ticket wording may be short, generic, or share words with another class."
+i was charged twice for my order. please help. reference billing ticket 125.,Medium,Medium,0.5836221439658271,"The ticket wording may be short, generic, or share words with another class."

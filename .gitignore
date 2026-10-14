@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+
+# Temporary files
+*.log
+.DS_Store

@@ -1,0 +1,22 @@
+Target: category
+Best parameters: {'classifier__C': 0.5, 'tfidf__ngram_range': (1, 1)}
+Validation accuracy: 1.000
+Validation macro F1: 1.000
+Labels: Account, Billing, Delivery, Technical
+Confusion matrix (rows=actual, columns=predicted):
+[[22  0  0  0]
+ [ 0 23  0  0]
+ [ 0  0 22  0]
+ [ 0  0  0 23]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+     Account       1.00      1.00      1.00        22
+     Billing       1.00      1.00      1.00        23
+    Delivery       1.00      1.00      1.00        22
+   Technical       1.00      1.00      1.00        23
+
+    accuracy                           1.00        90
+   macro avg       1.00      1.00      1.00        90
+weighted avg       1.00      1.00      1.00        90

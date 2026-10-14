@@ -1,0 +1,2 @@
+category: word accuracy=1.000, word macro F1=1.000; char accuracy=1.000, char macro F1=1.000
+priority: word accuracy=1.000, word macro F1=1.000; char accuracy=1.000, char macro F1=1.000

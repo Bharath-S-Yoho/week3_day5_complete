@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+task1_dataset/processed/
+task1_comparison/models/
+task2_fastapi/models/
+*.pyc

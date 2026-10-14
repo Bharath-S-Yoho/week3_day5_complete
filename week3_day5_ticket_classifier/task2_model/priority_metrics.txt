@@ -1,0 +1,20 @@
+Target: priority
+Best parameters: {'classifier__C': 0.5, 'tfidf__ngram_range': (1, 2)}
+Validation accuracy: 1.000
+Validation macro F1: 1.000
+Labels: High, Low, Medium
+Confusion matrix (rows=actual, columns=predicted):
+[[29  0  0]
+ [ 0 31  0]
+ [ 0  0 30]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+        High       1.00      1.00      1.00        29
+         Low       1.00      1.00      1.00        31
+      Medium       1.00      1.00      1.00        30
+
+    accuracy                           1.00        90
+   macro avg       1.00      1.00      1.00        90
+weighted avg       1.00      1.00      1.00        90

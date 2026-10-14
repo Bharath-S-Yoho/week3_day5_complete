@@ -1,0 +1,11 @@
+text,actual,predicted,confidence,guess_why
+i cannot log in to my account. blocking my work. reference technical ticket 36.,Technical,Technical,0.6258264227851085,"The ticket wording may be short, generic, or share words with another class."
+my refund has not arrived. i need assistance. reference billing ticket 96.,Billing,Billing,0.6333522123271075,"The ticket wording may be short, generic, or share words with another class."
+i cannot update my profile. please check. reference account ticket 73.,Account,Account,0.6385653767192117,"The ticket wording may be short, generic, or share words with another class."
+i cannot log in to my account. just asking. reference technical ticket 120.,Technical,Technical,0.6435186768905339,"The ticket wording may be short, generic, or share words with another class."
+i cannot update my profile. i need assistance. reference account ticket 67.,Account,Account,0.6469937991909475,"The ticket wording may be short, generic, or share words with another class."
+i cannot update my profile. i need assistance. reference account ticket 116.,Account,Account,0.6472828233707054,"The ticket wording may be short, generic, or share words with another class."
+i cannot update my profile. i need assistance. reference account ticket 75.,Account,Account,0.6521395195540974,"The ticket wording may be short, generic, or share words with another class."
+my refund has not arrived. urgent. reference billing ticket 12.,Billing,Billing,0.6702750389996066,"The ticket wording may be short, generic, or share words with another class."
+the parcel arrived damaged. as soon as possible. reference delivery ticket 8.,Delivery,Delivery,0.6726185345738723,"The ticket wording may be short, generic, or share words with another class."
+i cannot verify my account. as soon as possible. reference account ticket 66.,Account,Account,0.6794901639660421,"The ticket wording may be short, generic, or share words with another class."

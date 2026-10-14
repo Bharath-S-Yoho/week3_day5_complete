@@ -1,0 +1,10 @@
+Model | Accuracy | Macro F1 | Training time | Inference time per ticket
+TF-IDF + Logistic Regression (category) | Fill from task2_model/category_metrics.txt | Fill from metrics | Measure on your computer | Measure on your computer
+TF-IDF + Logistic Regression (priority) | Fill from task2_model/priority_metrics.txt | Fill from metrics | Measure on your computer | Measure on your computer
+DistilBERT (category) | Fill from category_results.txt | Fill from category_results.txt | Recorded in category_results.txt | Measure on your computer
+DistilBERT (priority) | Fill from priority_results.txt | Fill from priority_results.txt | Recorded in priority_results.txt | Measure on your computer
+
+Analysis:
+- DistilBERT may win when ticket meaning depends on context or varied phrasing.
+- TF-IDF can be good enough for clear, keyword-heavy tickets and is usually cheaper/faster.
+- Choose based on measured validation/test scores, latency, memory, and hosting cost.
